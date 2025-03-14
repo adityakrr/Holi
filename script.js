@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function addWhatsAppButton() {
         if (!document.querySelector(".whatsapp-link")) {
             const whatsappLink = document.createElement("a");
-            whatsappLink.href = "https://wa.me/919336784076";
+            whatsappLink.href = "https://wa.me/917061065793";
             whatsappLink.target = "_blank";
             whatsappLink.className = "whatsapp-link";
             whatsappLink.innerHTML = "Wish Me";
